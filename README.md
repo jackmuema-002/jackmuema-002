@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jackson
+# Hi 👋, I'm Jackson Muema
 
 **Full-stack Software Engineer | Java & Python Developer**
 I specialize in building end-to-end applications, from designing complex relational databases to crafting interactive user interfaces with React.
