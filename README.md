@@ -58,7 +58,7 @@ A full-stack academic management platform developed using **Java, MySQL, and MVC
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jackx-001-tipsy&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jackmuema-002&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
