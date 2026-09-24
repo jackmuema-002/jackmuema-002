@@ -1,36 +1,40 @@
 # Hi 👋, I'm Jackson Muema
 
-**Full-stack Software Engineer | Python & TypeScript Developer**
-I specialize in building end-to-end applications, from designing complex relational databases to crafting interactive user interfaces with React.
+**Full-stack Software Engineer | Quantitative Researcher**
 
-- 🚀 **Focus:** Developing scalable system architectures and automated workflows.
-- 🛠️ **Environment:** Ubuntu Linux (System Admin & Development).
-- 💡 **Architectural Preference:** Strong advocate for the **MVC (Model-View-Controller)** pattern.
+I specialize in building end-to-end applications, from designing complex relational databases to crafting interactive user interfaces with React. I'm also exploring **quantitative finance and algorithmic research through WorldQuant BRAIN**.
+
+* 🚀 **Focus:** Developing scalable system architectures and automated workflows.
+* 📊 **Quant Research:** Exploring alpha research, financial datasets, and systematic quantitative strategies through **WorldQuant BRAIN**.
+* 🛠️ **Environment:** Ubuntu Linux (System Admin & Development).
+* 💡 **Architectural Preference:** Strong advocate for the **MVC (Model-View-Controller)** pattern.
 
 ---
 
 ### **Tech Stack**
 
-| **Category**     | **Tools & Languages** |
-| :--------------- | :-------------------- |
-| **Languages**    | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Frontend**     | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
-| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **OS & Tools**   | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| **Category**     | **Tools & Languages**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**    | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat\&logo=typescript\&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=c%2B%2B\&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white) |
+| **Frontend**     | ![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat\&logo=bootstrap\&logoColor=white)                                                                                                                                                                                              |
+| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)                                                                                                                                                                                                                                                                                           |
+| **OS & Tools**   | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat\&logo=ubuntu\&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 ---
 
 ### 🚀 **Featured Projects**
 
 #### **1. University Management System**
+
 A full-stack academic management platform developed using **Python, MySQL, and MVC architecture**.
 
 **Key Features**
-- Student registration and records management
-- Lecturer and course assignment
-- Score and grade tracking
-- Library borrowing and reservation system
-- MySQL database integration
+
+* Student registration and records management
+* Lecturer and course assignment
+* Score and grade tracking
+* Library borrowing and reservation system
+* MySQL database integration
 
 **Tech Used:** `Python` `MySQL` `MVC` `React` `HTML` `CSS` `Bootstrap`
 
@@ -38,12 +42,37 @@ A full-stack academic management platform developed using **Python, MySQL, and M
 
 ---
 
+#### **2. 📈 Quantitative Research — WorldQuant BRAIN**
+
+I'm currently exploring **quantitative finance and systematic financial research through WorldQuant BRAIN**.
+
+My research focuses on developing and testing **alpha signals** using financial datasets, statistical techniques, and quantitative research methodologies.
+
+**Areas of Interest**
+
+* 📊 Alpha research
+* 📈 Quantitative finance
+* 🧮 Statistical analysis
+* 🐍 Python for quantitative research
+* 💹 Financial market data
+* 🔬 Signal discovery and testing
+* ⚙️ Systematic research workflows
+* 📐 Factor-based analysis
+
+> **Research mindset:** Form a hypothesis → Build a signal → Test it → Analyze the results → Refine the idea.
+
+This experience is helping me combine **software engineering, mathematics, statistics, and financial research** to develop data-driven solutions.
+
+---
+
 ### **Currently Learning**
 
 * **Full-stack Integration:** Connecting Python backends with React + TypeScript frontends.
+* **Quantitative Finance:** Developing and testing alpha ideas through WorldQuant BRAIN.
 * **DevOps:** Mastering Linux package management and environment stabilization.
 * **Advanced SQL:** Query optimization and database normalization.
 * **Systems Programming:** Deepening skills in C and C++.
+* **Data Analysis:** Using Python tools such as Pandas and Matplotlib for research and analysis.
 
 ---
 
@@ -67,12 +96,17 @@ A full-stack academic management platform developed using **Python, MySQL, and M
 ### 📫 Connect with Me
 
 <p align="left">
-<a href="mailto:jackxdeone@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="www.linkedin.com/in/jackson-muema-4a925a43a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:jackxdeone@gmail.com" target="blank">
+<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/jackson-muema-4a925a43a" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 </p>
 
 <br />
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=jackx-001-tipsy&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Jackson's Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=jackmuema-002&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Jackson's Profile Views" />
 </p>
